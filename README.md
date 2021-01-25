@@ -1,4 +1,14 @@
 # Практична робота "Створення і використання статичних методів"
+## Завдання: 17. Зашифрувати задану фразу шифром XOR за заданим словом-ключем.
+## Exercise.java
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo1.png" width="100%"/>
+
+## TestResult.java
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo2.png" width="100%"/>
+
+
+
+# Хід роботи
 Цей репозиторій містить стартовий код для виконання практичної роботи, який містить заготовки двох класів, якідемонструють структуру проекту для виконання завдань "обчислювального характеру"
 <img src="https://github.com/ppc-ntu-khpi/identifiers-types-starter/blob/master/computation.png" width="100%"/>
 ## В рамках практичної роботи ви маєте зробити наступне:
