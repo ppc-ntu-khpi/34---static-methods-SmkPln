@@ -1,10 +1,10 @@
 # Практична робота "Створення і використання статичних методів"
 ## Завдання: 17. Зашифрувати задану фразу шифром XOR за заданим словом-ключем.
-## Exercise.java
-<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo1.png" width="80%"/>
+## Exercise.java:
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo1.png" width="90%"/>
 
-## TestResult.java
-<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo2.png" width="80%"/>
+## TestResult.java:
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo2.png" width="90%"/>
 
 
 
