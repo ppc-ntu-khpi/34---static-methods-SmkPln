@@ -1,10 +1,10 @@
 # Практична робота "Створення і використання статичних методів"
 ## Результат завдання: 17. Зашифрувати задану фразу [шифром XOR](https://uk.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%80_XOR) за заданим словом-ключем.
 ## Exercise.java:
-<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo1.png" width="90%"/>
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo1.png" width="99%"/>
 
 ## TestResult.java:
-<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo2.png" width="90%"/>
+<img src="https://github.com/ppc-ntu-khpi/34---static-methods-SmkPln/blob/master/photo2.png" width="99%"/>
 
 ----
 
